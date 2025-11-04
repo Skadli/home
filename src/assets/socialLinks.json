@@ -1,0 +1,21 @@
+[
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "有什么事吗",
+    "url": "https://res.abeim.cn/api/qq/?qq=1350375634"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:1350375634@qq.com"
+  },
+  {
+    "name": "WeChat",
+    "icon": "/images/icon/wechat.png",
+    "tip": "微信号：V525252001",
+    "url": "https://r2.690990.xyz/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241229232853.jpg"
+  }
+
+]

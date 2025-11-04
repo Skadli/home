@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "meAPI",
+    "link": "https://api.mechat.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "车队",
+    "link": "https://ai.mechat.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "meAI",
+    "link": "https://meai.mechat.top/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://www.mechat.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "关注公众号",
+    "link": "https://r2.690990.xyz/111444.jpeg"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.mechat.xyz"
+  }
+]
